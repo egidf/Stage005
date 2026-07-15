@@ -1,0 +1,6 @@
+{
+  "name": "StageCue Audio",
+  "description": "Professional audio player for stage performances with per-track volume control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
